@@ -1,0 +1,6 @@
+{
+  "name": "Marco Ramondetta x M$M",
+  "description": "Landing page per l'attivazione dei bonus aziendali",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
